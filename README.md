@@ -10,5 +10,5 @@
 </head>
 
 <body>
-
-https://github.com/Suansay/Suansay.github.io
+  
+Suansay.github.io
