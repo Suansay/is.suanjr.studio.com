@@ -10,5 +10,5 @@
 </head>
 
 <body>
-Suansay.Eventfeed.io
+https://github.com/Suansay/Suansay.Eventfeed.io
 
