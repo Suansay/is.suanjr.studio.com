@@ -10,6 +10,5 @@
 </head>
 
 <body>
-
-[Suansay.Eventfeed.io](https://github.com/Suansay/Suansay.Eventfeed.io/tree/main)https://github.com/Suansay/Suansay.Eventfeed.io/tree/main
+Suansay.Eventfeed.io
 
