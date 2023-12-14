@@ -50,7 +50,7 @@ p {
 	padding: 10px 30px;
 	color: 330033;
 	background-color: transparent;
-	border: 2px solid crimson;
+	border: 2px 993366;
 	font-size: 2rem;
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
@@ -59,7 +59,7 @@ p {
 	transition-property: background-color, color;
 }
 .cta:hover {
-	color: white;
+	color: CC0066;
 	background-color: 660066;
 }
 .brand h1 {
