@@ -11,9 +11,9 @@ hamburger.addEventListener('click', () => {
 document.addEventListener('scroll', () => {
 	var scroll_position = window.scrollY;
 	if (scroll_position > 250) {
-		header.style.backgroundColor = '#8E115E';
+		header.style.backgroundColor = 'hex #8e115e';
 	} else {
-		header.style.backgroundColor = 'transparent';
+		header.style.backgroundColor = 'https://tse2.mm.bing.net/th?id=OIP.Qkw4zMNqTB_yi1t4K7jgigHaFL&pid=Api&P=0&h=180';
 	}
 });
 
