@@ -170,7 +170,7 @@ p {
 	height: 2px;
 	width: 30px;
 	position: relative;
-	background-color: white;
+	background-color: green;
 	z-index: -1;
 }
 #header .hamburger .bar::after,
@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/hero-bg.png);
+	background-image: https://www.billhighway.co/wp-content/uploads/2020/01/Upcoming-Events.jpg
 	background-size: cover;
 	background-position: top center;
 	position: relative;
