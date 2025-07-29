@@ -11,4 +11,4 @@
 
 <body>
 
-https://suansay.github.io/
+SuanJr.Studio.com/
